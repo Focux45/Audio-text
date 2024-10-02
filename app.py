@@ -43,7 +43,7 @@ remove_files(7)
 
 
 
-st.title("Imagen a texto")
+st.title("Imagen a TTS")
 st.subheader("Elige la fuente de la imágen para ser convertida en tts, esta puede venir de la cámara o cargando un archivo")
 
 cam_ = st.checkbox("Usar Cámara")
